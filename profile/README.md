@@ -1,5 +1,3 @@
-Discord: https://discord.gg/D6yFDwWqKd
-
 This is an open platform for Face of Mankind emulation, giving the community the tools, documentation, and practical guidance needed to run Face of Mankind private servers with as little friction as possible.
 By making it easy to spin up servers, test changes, and share improvements, the project supports long-term preservation of the game. More importantly, it puts the future of Face of Mankind in the hands of the community instead of a single team or organization.
 
