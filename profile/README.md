@@ -3,6 +3,4 @@ Discord: https://discord.gg/D6yFDwWqKd
 This is an open platform for Face of Mankind emulation, giving the community the tools, documentation, and practical guidance needed to run Face of Mankind private servers with as little friction as possible.
 By making it easy to spin up servers, test changes, and share improvements, the project supports long-term preservation of the game. More importantly, it puts the future of Face of Mankind in the hands of the community instead of a single team or organization.
 
-The long-term goal is to build an ecosystem similar to Open Tibia and other MMO private server communities.
-
-By fully decentralizing development and making everything open source, we aim to preserve the Face of Mankind IP while allowing players to either relive the game as it was or experience it for the first time. At the same time, this opens the door for developers from other MMO private server scenes who are curious about FoM and want to experiment, contribute, or build something new on top of it.
+The long-term goal is to build an ecosystem similar to Open Tibia and other MMO private server communities. By fully decentralizing development and making everything open source, we aim to preserve the Face of Mankind IP while allowing players to either relive the game as it was or experience it for the first time. At the same time, this opens the door for developers from other MMO private server scenes who are curious about FoM and want to experiment, contribute, or build something new on top of it.
